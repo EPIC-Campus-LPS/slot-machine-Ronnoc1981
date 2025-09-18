@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/1eafe7a2-55d5-4bb3-be6e-dd218d0be836
 ## Materials 
 
 1. 1 LED 
-2. 1 65 Ohm Resistor
+2. 1 130 Ohm Resistor
 3. 7-segment display or LCD Screen(see options below) 
 4. 1 button
 ## Part 1: LED and Button Setup
