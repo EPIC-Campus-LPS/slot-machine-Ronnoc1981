@@ -1,0 +1,11 @@
+1. How does your program detect a button press and trigger the game loop?
+ - It uses the GPIO pin output to see if the button is pressed. It loops automatically unless it get's interupted with CTRL + C
+
+2. If I ran the slot machine 1000 times and graphed the results on a number line, would the results look like? What would they look like for your rigged version?
+ - It would have no pattern
+
+3. How did you use randomness in your program? Was it truly random? How could you test it?
+ - I used the random library and the string library to randomly choose A letter. I did this for all four letters..
+
+4. How did you guarantee the results would favor winning? How did you change your game logic to accomplish this?
+ - I used a boolean to know if I needed to overide the random letters or not. I changed them by making the function only return one letter.
